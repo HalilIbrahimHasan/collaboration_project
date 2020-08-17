@@ -26,6 +26,7 @@ public class WelcomingTeam {
 
 		
 		System.out.println("Ilk commit Said");
+<<<<<<< HEAD
 
 
 
@@ -44,5 +45,8 @@ public class WelcomingTeam {
 		System.out.println("Merhaba Rahmi bey");
 		System.out.println("Commit from local repo");
 
+=======
+		System.out.println("Hello team Said");
+>>>>>>> bc49577b09e464df0105d126bfdfd5d5ef55d54d
 	}
 }
