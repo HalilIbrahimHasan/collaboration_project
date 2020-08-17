@@ -95,6 +95,7 @@ public class WelcomingTeam {
 		System.out.println("my remote branch said");
 		System.out.println(" Nothing from mesut");
 		System.out.println("hey Emine");
+		System.out.println("local master'dan remote master'a");
 
 	}
 }
