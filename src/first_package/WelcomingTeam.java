@@ -44,6 +44,8 @@ public class WelcomingTeam {
 			System.out.println("ilk commit intellij deniz line 15");
 
 		}
+		System.out.println("Traffic is stuck !!");
+		
 
 		System.out.println("problem 123");
 
