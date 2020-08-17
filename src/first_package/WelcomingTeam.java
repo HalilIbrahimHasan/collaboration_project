@@ -11,5 +11,8 @@ public class WelcomingTeam {
 		System.out.println("Hey guys!");
 		
 		System.out.println("Ilk commit Said");
+		for (int i=0;i<4;i++){
+			System.out.println("Hello");
+		}
 	}
 }
