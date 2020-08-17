@@ -7,6 +7,18 @@ public class WelcomingTeam {
 		System.out.println("Hey dilara");
 		System.out.println("Hello team 6, from Fatma -3. try");
 
+		
+
+		
+		System.out.println("Ilk commit Said");
+
+
+
+
+
+		System.out.println("There is no problem?");
+
+
 
 
 		System.out.println("Hey guys!");
@@ -23,7 +35,6 @@ public class WelcomingTeam {
 			System.out.println("ilk commit intellij deniz line 15");
 
 		}
-
 		
 		System.out.println("Merhaba Rahmi bey");
 
