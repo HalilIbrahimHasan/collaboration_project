@@ -47,11 +47,13 @@ public class WelcomingTeam {
 		System.out.println("Traffic is stuck !!");
 		
 
+
 		System.out.println("problem 123");
 
 		System.out.println("master update");
 		
 		System.out.println("Merhaba Rahmi bey");
+		System.out.println("Commit from local repo");
 
 		System.out.println("deniz1");
 		System.out.println("deniz2");
@@ -71,5 +73,7 @@ public class WelcomingTeam {
 		System.out.println(" Git ");
 
 
+		System.out.println("Hello team Said");
+		System.out.println("my local branch said");
 	}
 }
