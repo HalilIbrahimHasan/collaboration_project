@@ -59,6 +59,8 @@ public class WelcomingTeam {
 		System.out.println("local branch deniz line 15");
 
 		System.out.println("hadi bakalim");
+		for(int i=0;i<5;i++){ System.out.println("hadi bakalim"+i);}
+		
 		
 
 	}
