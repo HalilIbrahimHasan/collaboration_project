@@ -87,6 +87,7 @@ public class WelcomingTeam {
 		System.out.println("my local branch said");
 		System.out.println("my remote branch said");
 		System.out.println("Remote branch from Emine");
+		System.out.println("local branch'ten remote branch'e");
 
 	}
 }
