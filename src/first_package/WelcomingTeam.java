@@ -41,6 +41,7 @@ public class WelcomingTeam {
 			System.out.println("ilk commit intellij deniz line 15");
 
 		}
+		System.out.println("Ilk commit emine");
 
 		System.out.println("problem 123");
 
@@ -56,5 +57,6 @@ public class WelcomingTeam {
 		System.out.println("problem var mi?");
 		System.out.println("Simdi duzeldi");
 		System.out.println("Local'dan master'a");
+		
 	}
 }
