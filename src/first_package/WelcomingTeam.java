@@ -7,14 +7,19 @@ public class WelcomingTeam {
 		System.out.println("Hey dilara");
 		System.out.println("Hello team 6, from Fatma -3. try");
 
+
 		System.out.println("Hi from Rahmi");
 		System.out.println("this is a trial");
 		System.out.println("Hi from Rahmi");
 		System.out.println("dont worry be happy");
 		System.out.println("dont worry be happy");
 
+
 		
 
+
+		System.out.println("Traffic is stuck !!");
+		System.out.println("Definitely !!");
 		
 		System.out.println("Ilk commit Said");
 
@@ -33,8 +38,6 @@ public class WelcomingTeam {
 		
 		System.out.println("Ilk commit Said");
 
-
-
 		for (int i=0;i<4;i++){
 			System.out.println("Hello");
 
@@ -47,11 +50,22 @@ public class WelcomingTeam {
 
 		
 		System.out.println("Merhaba Rahmi bey");
+
 		System.out.println("deniz1");
 		System.out.println("deniz2");
 		System.out.println("Degerli arkadslar katilin collaborationa!");
 		System.out.println("Here are changes from local master");
 		System.out.println("Here are changes from Mesut bey");
 		System.out.println("Here are changes from Emine Hanim");
+
+		System.out.println("Branch Fatma from local");
+
+
+		System.out.println("Remote branch from Fatma");
+
+
+		System.out.println("git problems -fatma");
+
+
 	}
 }
