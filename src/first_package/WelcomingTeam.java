@@ -24,5 +24,8 @@ public class WelcomingTeam {
 
 		}
 
+		
+		System.out.println("Merhaba Rahmi bey");
+
 	}
 }
