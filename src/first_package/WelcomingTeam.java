@@ -55,5 +55,6 @@ public class WelcomingTeam {
 		System.out.println("Here are changes from Emine Hanim");
 		System.out.println("problem var mi?");
 		System.out.println("Simdi duzeldi");
+		System.out.println("Local'dan master'a");
 	}
 }
