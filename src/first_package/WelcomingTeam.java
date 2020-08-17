@@ -7,7 +7,11 @@ public class WelcomingTeam {
 		System.out.println("Hey dilara");
 		System.out.println("Hello team 6, from Fatma -3. try");
 
+
 		
+
+
+		System.out.println("Traffic is stuck !!");
 
 		
 		System.out.println("Ilk commit Said");
@@ -23,12 +27,16 @@ public class WelcomingTeam {
 		System.out.println("Hey guys!");
 		
 		System.out.println("Ilk commit Said");
+
 		for (int i=0;i<4;i++){
 			System.out.println("Hello");
 		}
 		
 		System.out.println("Merhaba Rahmi bey");
 		System.out.println("Branch Fatma from local");
+
+
+		System.out.println("Remote branch from Fatma");
 
 	}
 }
