@@ -60,6 +60,7 @@ public class WelcomingTeam {
 
 		System.out.println("hadi bakalim");
 		for(int i=0;i<5;i++){ System.out.println("hadi bakalim"+i);}
+		for(int i=0;i<5;i++){ System.out.println("mesaj from deniz1"+i);}
 		
 		
 
