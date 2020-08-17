@@ -15,8 +15,8 @@ public class WelcomingTeam {
 		System.out.println("Hi from Rahmi");
 		System.out.println("this is a trial");
 		System.out.println("Hi from Rahmi");
-		System.out.println("dont worry be happy");
-		System.out.println("dont worry be happy");
+		System.out.println("don't worry be happy");
+
 
 
 
