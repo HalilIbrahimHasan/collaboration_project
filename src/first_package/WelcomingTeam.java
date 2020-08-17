@@ -49,7 +49,8 @@ public class WelcomingTeam {
 		System.out.println("Merhaba Rahmi bey");
 		System.out.println("deniz1");
 		System.out.println("deniz2");
-
+		System.out.println("Degerli arkadslar katilin collaborationa!");
+		System.out.println("Here are changes from local master");
 
 	}
 }
