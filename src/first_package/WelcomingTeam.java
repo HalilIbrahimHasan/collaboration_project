@@ -75,5 +75,6 @@ public class WelcomingTeam {
 
 		System.out.println("Hello team Said");
 		System.out.println("my local branch said");
+		System.out.println("my remote branch said");
 	}
 }
