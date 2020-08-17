@@ -14,6 +14,15 @@ public class WelcomingTeam {
 
 		
 		System.out.println("Ilk commit Said");
-        System.out.println("ilk commit intellij deniz line 15");
+
+
+
+		for (int i=0;i<4;i++){
+			System.out.println("Hello");
+
+			System.out.println("ilk commit intellij deniz line 15");
+
+		}
+
 	}
 }
