@@ -88,6 +88,8 @@ public class WelcomingTeam {
 		System.out.println("Remote branch from Emine");
 		System.out.println("local branch'ten remote branch'e");
 		System.out.println("new post");
+		System.out.println("local'dan remote'a");
+
 
 	}
 }
