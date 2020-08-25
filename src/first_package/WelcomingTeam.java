@@ -101,6 +101,10 @@ public class WelcomingTeam {
 		System.out.println(" Nothing from mesut");
 		System.out.println("hey Emine");
 		System.out.println("local master'dan remote master'a");
+		for (int i=0;i<5;i++) {
+			System.out.println("Hi!!");
+		}
 
-	}
+
+		}
 }
