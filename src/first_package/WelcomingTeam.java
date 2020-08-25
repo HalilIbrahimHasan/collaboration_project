@@ -77,7 +77,7 @@ public class WelcomingTeam {
 		System.out.println("Remote branch from Fatma");
 
 
-		System.out.println("git problems -fatma");
+		System.out.println("git problems fatma");
 
 		System.out.println(" Git ");
 
